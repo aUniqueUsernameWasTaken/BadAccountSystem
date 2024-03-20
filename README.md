@@ -17,5 +17,5 @@ This isnt fully meant for security, ofcourse there are security flaws. or just f
 But all the accounts usernames and passwords are stored in sha256 hash. so i guess that is some sort of wall of security. assuming you can fix
 all the other holes. 
 ## Chalange
-find out the password and username of the account preset in the.. account directory. heh
+find out the password and username of the account preset in the.. account directory. heh\
 if you find the correct account.. good job i guess.
