@@ -4,10 +4,10 @@ This is an incredibly bad account managment system, atleast i think so. I never 
 ## Setup
 Just clone it. (`git clone <link>`)\
 `cd` into the cloned director.\
-then.\
-### On Linux and Mac:
+then:
+### Linux and Mac:
 run:
 `bash main.sh`
-### On Windows:
+### Windows:
 run:
 `clear & python main.py`
