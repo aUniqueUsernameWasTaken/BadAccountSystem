@@ -3,7 +3,7 @@
 This is an incredibly bad account managment system, atleast i think so. I never really made an account system like this.
 ## Setup
 Just clone it. (`git clone <link>`)\
-`cd` into the cloned director.\
+`cd` into the cloned directory.\
 then:
 ### Linux and Mac:
 run:
