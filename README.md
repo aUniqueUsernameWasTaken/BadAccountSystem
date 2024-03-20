@@ -10,4 +10,4 @@ run:
 `bash main.sh`
 ### Windows:
 run:
-`clear & python main.py`
+`python main.py`
